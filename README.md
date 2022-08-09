@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Majic 
-- 👀 I’m interested in study
-- 🌱 I’m currently learning C++ programing code
+- 👋 Hi, I’m cpt_Majician
+- 👀 I’m interested in study new thing
+- 🌱 I’m currently learning C++/python/java programing code
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me email 1928787583@qq.com
 
