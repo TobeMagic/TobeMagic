@@ -2,7 +2,7 @@
 - 👀 I’m interested in study new thing
 - 🌱 I’m currently learning C++/python/java programing code
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me email 1928787583@qq.com
+- 📫 How to reach me email daizhaoji12345@gmail.com
 
 <!---
 TobeMagic/TobeMagic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
