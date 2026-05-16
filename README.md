@@ -2,14 +2,14 @@
 
 # 🪄 Hi there, I'm AI_magician
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+AI+tricks+like+magic+✨;Move+fast%2C+think+deep%2C+never+rush;AI+Agent+Developer+%7C+Full+Stack+%7C+AI+Applications" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+AI+tricks+like+magic+✨;Move+fast%2C+think+deep%2C+never+rush;AI+Agent+Developer+%7C+Full+Stack+%7C+AI+Applications)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/TobeMagic?style=social)](https://github.com/TobeMagic)
 [![GitHub stars](https://img.shields.io/github/stars/TobeMagic?style=social)](https://github.com/TobeMagic)
 
 </div>
 
----
+<br/>
 
 ## 👨‍🔬 About Me
 
@@ -45,7 +45,7 @@ class AI_Magician:
         return "Move fast, think deep, never rush 🪄"
 ```
 
----
+<br/>
 
 <!--
 ## 🛠️ Tech Stack
@@ -73,8 +73,6 @@ class AI_Magician:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 -->
 
----
-
 <!--
 ## 🔥 What I'm Working On
 
@@ -85,21 +83,21 @@ class AI_Magician:
 🧠 **LLM Applications** - Experimenting with Claude, GPT-4, and open-source models
 -->
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TobeMagic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TobeMagic&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TobeMagic&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TobeMagic&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TobeMagic&theme=buefy-light)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobeMagic&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TobeMagic&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
 
 </div>
 
----
+<br/>
 
 ## 🎯 Current Focus
 
@@ -124,7 +122,7 @@ mindmap
       Intelligent Bots
 ```
 
----
+<br/>
 
 <!--
 ## 🌟 Featured Projects
@@ -140,7 +138,7 @@ mindmap
 - ⭐ **Highlights**: Real-time SLAM, robotics integration
 -->
 
----
+<br/>
 
 ## 📫 Connect With Me
 
@@ -150,19 +148,19 @@ mindmap
 [![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=c&logoColor=white)](https://blog.csdn.net/weixin_66526635)
 [![WeChat](https://img.shields.io/badge/公众号：计算机魔术师-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
 
----
+<br/>
 
 ## 💡 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
+<br/>
 
 <div align="center">
 
 ### ✨ *"The best way to predict the future is to invent it."* ✨
 
-<img src="https://profile-counter.glitch.me/TobeMagic/count.svg" alt="Visitor Count" />
+![Visitor Count](https://komarev.com/ghpvc/?username=TobeMagic&color=blueviolet&style=flat-square&label=Profile+Views)
 
 **Building the future, one AI trick at a time** 🪄
 
