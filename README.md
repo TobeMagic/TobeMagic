@@ -9,7 +9,6 @@
 
 </div>
 
-<br/>
 
 ## 👨‍🔬 About Me
 
@@ -84,7 +83,7 @@ class AI_Magician:
 -->
 
 <br/>
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -94,7 +93,7 @@ class AI_Magician:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TobeMagic&theme=default)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TobeMagic&theme=buefy-light)](https://git.io/streak-stats)
 
-
+-->
 </div>
 
 <br/>
@@ -138,8 +137,8 @@ mindmap
 - ⭐ **Highlights**: Real-time SLAM, robotics integration
 -->
 
+<!--
 <br/>
-
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daizhaoji12345@gmail.com)
@@ -148,20 +147,21 @@ mindmap
 [![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=c&logoColor=white)](https://blog.csdn.net/weixin_66526635)
 [![WeChat](https://img.shields.io/badge/公众号：计算机魔术师-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
 
+-->
+<!--
 <br/>
-
 ## 💡 Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 <br/>
+-->
 
 <div align="center">
 
 ### ✨ *"The best way to predict the future is to invent it."* ✨
-
+<!--
 ![Visitor Count](https://komarev.com/ghpvc/?username=TobeMagic&color=blueviolet&style=flat-square&label=Profile+Views)
-
+-->
 **Building the future, one AI trick at a time** 🪄
 
 </div>
