@@ -2,7 +2,10 @@
 
 # 🪄 Hi there, I'm AI_magician
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+AI+tricks+like+magic+✨;Move+fast%2C+think+deep%2C+never+rush;AI+Agent+Developer+%7C+Full+Stack+%7C+AI+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+AI+tricks+like+magic+✨;Move+fast%2C+think+deep%2C+never+rush;)](https://git.io/typing-svg)
+
+<!--
+AI+Agent+Developer+%7C+Full+Stack+%7C+AI+Applications -->
 
 [![GitHub followers](https://img.shields.io/github/followers/TobeMagic?style=social)](https://github.com/TobeMagic)
 [![GitHub stars](https://img.shields.io/github/stars/TobeMagic?style=social)](https://github.com/TobeMagic)
@@ -44,9 +47,10 @@ class AI_Magician:
         return "Move fast, think deep, never rush 🪄"
 ```
 
-<br/>
+
 
 <!--
+<br/>
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -83,7 +87,7 @@ class AI_Magician:
 -->
 
 <br/>
-<!--
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -93,7 +97,7 @@ class AI_Magician:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TobeMagic&theme=default)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TobeMagic&theme=buefy-light)](https://git.io/streak-stats)
 
--->
+
 </div>
 
 <br/>
