@@ -5,11 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+AI+tricks+like+magic+✨;Move+fast%2C+think+deep%2C+never+rush;)](https://git.io/typing-svg)
 
 <!--
-AI+Agent+Developer+%7C+Full+Stack+%7C+AI+Applications -->
+AI+Agent+Developer+%7C+Full+Stack+%7C+AI+Applications
 
 [![GitHub followers](https://img.shields.io/github/followers/TobeMagic?style=social)](https://github.com/TobeMagic)
 [![GitHub stars](https://img.shields.io/github/stars/TobeMagic?style=social)](https://github.com/TobeMagic)
-
+ -->
 </div>
 
 
@@ -99,7 +99,7 @@ class AI_Magician:
 
 
 </div>
-
+<!--
 <br/>
 
 ## 🎯 Current Focus
@@ -126,7 +126,7 @@ mindmap
 ```
 
 <br/>
-
+-->
 <!--
 ## 🌟 Featured Projects
 
