@@ -93,11 +93,13 @@ class AI_Magician:
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TobeMagic&theme=vue)
+
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TobeMagic&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TobeMagic&theme=default)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TobeMagic&theme=buefy-light)](https://git.io/streak-stats)
 
-
+-->
 </div>
 <!--
 <br/>
