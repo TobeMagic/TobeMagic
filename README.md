@@ -12,6 +12,23 @@ AI+Agent+Developer+%7C+Full+Stack+%7C+AI+Applications
  -->
 </div>
 
+👋 Hi, I'm AI_magician，一个用代码变魔术的 AI Agent 开发者，把复杂的技术变成指尖的魔法 🪄.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<br/>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TobeMagic&theme=github)
+
+<!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TobeMagic&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TobeMagic&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TobeMagic&theme=buefy-light)](https://git.io/streak-stats)
+
+-->
+</div>
 
 ## 👨‍🔬 About Me
 
@@ -20,7 +37,7 @@ AI+Agent+Developer+%7C+Full+Stack+%7C+AI+Applications
 这两件事本质上是同一件事——  
 都是试图把混乱的世界，说清楚一点点。
 
-写新奇，写好玩，写惊喜一写那藏在烟火气里的小确幸与小灵感。我相信，世间最动人的事，是与你分享的每一份有趣。
+写新奇，写好玩，写惊喜——那些藏在烟火气里的小确幸与小灵感。我相信，世间最动人的事，是与你分享的每一份有趣。
 
 <!--
 🎓 Graduate Student @ China Ocean University - Sanya Oceanographic Institution  
@@ -34,6 +51,10 @@ class AI_Magician:
     def __init__(self):
         self.name = "AI_magician"
         self.role = "AI Agent Developer & Full Stack Engineer"
+        self.languages = ["Python", "TypeScript", "C++", "Shell"]
+        self.tools = ["PyTorch", "LangChain", "Docker", "Git", "Linux"]
+        self.cloud_platforms = ["Google Cloud", "GitHub"]
+        self.hobbies = ["Coding magic 🪄", "Open Source 🔥"]
         self.focus_areas = [
             "Multi-Agent Systems",
             "AI Agent Development",
@@ -46,6 +67,12 @@ class AI_Magician:
     def magic_spell(self):
         return "Move fast, think deep, never rush 🪄"
 ```
+
+-  **Learning :** Multi-Agent Systems ⚡ | AI Agent Development 🔥
+-  **Languages :** Python, TypeScript, C++, Shell
+-  **Hobbies :** Coding magic 🪄 & Open Source 🔥
+-  **Fact :** First solve the problem, then write the code ❤️
+-  **Contact me :** [Email](mailto:daizhaoji12345@gmail.com) ｜ [Blog](https://tobemagic.github.io/ai-magician-blog/) ｜ 公众号：计算机魔术师
 
 
 
@@ -86,21 +113,6 @@ class AI_Magician:
 🧠 **LLM Applications** - Experimenting with Claude, GPT-4, and open-source models
 -->
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TobeMagic&theme=vue)
-
-<!--
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TobeMagic&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TobeMagic&theme=default)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TobeMagic&theme=buefy-light)](https://git.io/streak-stats)
-
--->
-</div>
 <!--
 <br/>
 
@@ -161,6 +173,14 @@ mindmap
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 <br/>
 -->
+
+### Wait for you
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+### 🤝 Follow Me
+如果你觉得我的内容有点意思，欢迎 Star ⭐ 我的项目，也欢迎一起交流 AI 和编程，共同成长 🚀
 
 <div align="center">
 
