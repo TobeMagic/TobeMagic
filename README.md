@@ -51,35 +51,34 @@ class AI_Magician:
     def __init__(self):
         self.name = "AI_magician"
         self.role = "AI Agent Developer & Full Stack Engineer"
-        self.languages = ["Python", "TypeScript", "C++", "Shell"]
-        self.tools = ["PyTorch", "LangChain", "Docker", "Git", "Linux"]
-        self.cloud_platforms = ["Google Cloud", "GitHub"]
-        self.hobbies = ["Coding magic 🪄", "Open Source 🔥"]
-        self.focus_areas = [
+
+        self.learning = [
             "Multi-Agent Systems",
             "AI Agent Development",
             "Full Stack Development",
-            "AI Applications",
-            "Intelligent Automation"
+            "AI Applications"
         ]
-        self.current_mission = "Building AI agents that think and collaborate"
-        
+
+        self.languages   = ["Java", "TypeScript", "JavaScript", "Python", "SQL"]
+        self.frameworks  = ["Spring Boot", "React", "Node.js", "Tailwind CSS", "K8s"]
+        self.cloud       = ["Cloudflare ☁️", "阿里云", "腾讯云", "AWS", "GCP"]
+
+        self.hobbies     = ["🏀 篮球", "💪 健身", "🏃 跑步", "🎵 音乐"]
+
+        self.motto   = "First solve the problem, then write the code ❤️"
+        self.mission = "Building AI agents that think and collaborate 🪄"
+
     def magic_spell(self):
         return "Move fast, think deep, never rush 🪄"
 ```
 
--  **Learning :** Multi-Agent Systems ⚡ | AI Agent Development 🔥
--  **Languages :** Python, TypeScript, C++, Shell
--  **Hobbies :** Coding magic 🪄 & Open Source 🔥
--  **Fact :** First solve the problem, then write the code ❤️
--  **Contact me :** [Email](mailto:daizhaoji12345@gmail.com) ｜ [Blog](https://tobemagic.github.io/ai-magician-blog/) ｜ 公众号：计算机魔术师
+📧 **Email** : [daizhaoji12345@gmail.com](mailto:daizhaoji12345@gmail.com) ｜ 📝 **Blog** : [ai-magician-blog](https://tobemagic.github.io/ai-magician-blog/) ｜ 📢 **公众号** : 计算机魔术师
 
 
 
 <!--
 <br/>
 ## 🛠️ Tech Stack
-
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
